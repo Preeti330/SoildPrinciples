@@ -1,4 +1,4 @@
-#Solid Principles# <br />
+###Solid Principles <br />
 which helps to maintain code, redability and makes easier to test . <br />
 by applying the soild code principles we can avoild conflicts while multiple developers are working on the same code.  <br />
 and can even help to easily debug the issues  <br />
